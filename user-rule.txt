@@ -5,3 +5,4 @@
 ||evernote.com
 ||xmarks.com
 ||apple.com
+||tutorialspoint.com
