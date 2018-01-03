@@ -6,3 +6,5 @@
 ||xmarks.com
 ||apple.com
 ||tutorialspoint.com
+||npmjs.com
+||github.com
