@@ -1,4 +1,4 @@
-# Shadowsocks Practice
+# Shadowsocks
 
 https://shadowsocks.org/
 
@@ -16,9 +16,9 @@ https://adblockplus.org/en/filter-cheatsheet
 
 **Ubuntu**
 
-[install-shadowsocks-apt.sh](https://github.com/mrhuangyuhui/vpn/blob/master/install-shadowsocks-apt.sh)
+[install-shadowsocks-apt.sh](https://github.com/mrhuangyuhui/shadowsocks/blob/master/install-shadowsocks-apt.sh)
 ```bash
-curl -L https://github.com/mrhuangyuhui/vpn/raw/master/install-shadowsocks-apt.sh | bash
+curl -L https://github.com/mrhuangyuhui/shadowsocks/raw/master/install-shadowsocks-apt.sh | bash
 ```
 
 ```bash
@@ -63,6 +63,11 @@ https://github.com/shadowsocks/ShadowsocksX-NG/releases
 
 shadowsocks-win
 https://github.com/shadowsocks/shadowsocks-windows/releases
+
+### Android
+
+shadowsocks-android
+https://github.com/shadowsocks/shadowsocks-android/releases
 
 ## Documentation
 
