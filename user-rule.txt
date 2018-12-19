@@ -8,3 +8,5 @@
 ||tutorialspoint.com
 ||npmjs.com
 ||github.com
+||thymeleaf.org
+||linux.vbird.org
