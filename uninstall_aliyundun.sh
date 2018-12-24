@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+# https://github.com/ssrpanel/SSRPanel/wiki/%E5%8D%B8%E8%BD%BD%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%BE%EF%BC%88%E5%AE%89%E9%AA%91%E5%A3%AB%EF%BC%89%E7%9B%91%E6%8E%A7&%E5%B1%8F%E8%94%BD%E4%BA%91%E7%9B%BEIP
+
 # 卸载阿里云盾监控
 wget http://update.aegis.aliyun.com/download/uninstall.sh
 chmod +x uninstall.sh
