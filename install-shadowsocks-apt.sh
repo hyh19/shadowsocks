@@ -8,4 +8,4 @@ sudo apt-get install -y python-pip git
 pip install git+https://github.com/shadowsocks/shadowsocks.git@master
 
 # 启动
-ssserver -k liege-engage-beast -d start
+ssserver -k 123456 -d start
